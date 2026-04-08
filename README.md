@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="./image/Lift_logo.png" width="300"> 
+  <img src="./image/LIFT_logo.png" width="300"> 
 </div>  
 
 # LIFT: Lifetime Inference via Fuel-cell Transformer
