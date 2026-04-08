@@ -1,3 +1,6 @@
+<div align="center">  
+  <img src="./image/Lift_logo.png" width="300"> 
+</div>  
 # LIFT
 LIFT (Lifetime Inference via Fuel-cell Transformer) is a specialized deep learning framework designed for the prognostics of PEMFC operating under aviation-specific mission profiles. Unlike standard stationary or automotive datasets, this project focuses on the high-frequency dynamics and long-term degradation patterns unique to urban air mobility environments.
 
